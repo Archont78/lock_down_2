@@ -1,0 +1,43 @@
+2025-05-22 13:17:56,446 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:17:56,624 - keyboard_interceptor - ERROR - Failed accessibility test: f24
+2025-05-22 13:17:56,624 - keyboard_interceptor - ERROR - Accessibility permissions test failed!
+2025-05-22 13:20:02,784 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:20:02,828 - keyboard_interceptor - ERROR - Failed accessibility test: f24
+2025-05-22 13:20:02,828 - keyboard_interceptor - ERROR - Accessibility permissions test failed!
+2025-05-22 13:27:08,038 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:27:08,237 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 13:27:08,237 - keyboard_interceptor - INFO - Listening for keyboard events...
+2025-05-22 13:27:27,826 - keyboard_interceptor - INFO - Intercepted: cmd+tab (App switcher)
+2025-05-22 13:27:27,841 - keyboard_interceptor - INFO - Launched laughing skull animation from /Users/phenix/Library/Logs/project_lockdown/scripts_2/visual/laugh_skull.py
+2025-05-22 13:27:27,842 - keyboard_interceptor - INFO - Simulating random key press: G
+2025-05-22 13:27:27,906 - keyboard_interceptor - INFO - Keyboard interceptor stopped.
+2025-05-22 13:29:52,894 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:29:53,053 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 13:29:53,053 - keyboard_interceptor - INFO - Listening for keyboard events...
+2025-05-22 13:29:55,913 - keyboard_interceptor - INFO - Intercepted: cmd+tab (App switcher)
+2025-05-22 13:29:55,935 - keyboard_interceptor - INFO - Launched laughing skull animation from /Users/phenix/Library/Logs/project_lockdown/scripts_2/visual/laugh_skull.py
+2025-05-22 13:29:55,935 - keyboard_interceptor - INFO - Simulating random key press: w
+2025-05-22 13:29:55,953 - keyboard_interceptor - INFO - Keyboard interceptor stopped.
+2025-05-22 13:38:01,727 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:38:01,928 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 13:38:01,929 - keyboard_interceptor - INFO - Listening for keyboard events...
+2025-05-22 13:38:05,942 - keyboard_interceptor - INFO - Released potentially stuck key: Key.cmd
+2025-05-22 13:39:02,162 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 13:39:23,075 - keyboard_interceptor - INFO - Exit combination detected. Stopping the script.
+2025-05-22 13:39:23,083 - keyboard_interceptor - INFO - Keyboard interceptor stopped.
+2025-05-22 13:49:50,895 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 13:49:51,102 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 13:49:51,103 - keyboard_interceptor - INFO - Listening for keyboard events...
+2025-05-22 13:49:56,591 - keyboard_interceptor - INFO - Intercepted: ctrl+c (Copy/Interrupt)
+2025-05-22 13:49:56,613 - keyboard_interceptor - INFO - Launched laughing skull animation from /Users/phenix/Library/Logs/project_lockdown/scripts_2/visual/laugh_skull.py
+2025-05-22 13:49:56,614 - keyboard_interceptor - INFO - Simulating random key press: f
+2025-05-22 13:49:56,617 - keyboard_interceptor - INFO - Keyboard interceptor stopped.
+2025-05-22 14:00:26,278 - keyboard_interceptor - WARNING - Could not import skull_animation from laugh_skull.py: module 'laugh_skull' has no attribute 'skull_animation'
+2025-05-22 14:00:26,280 - keyboard_interceptor - INFO - Starting keyboard interceptor...
+2025-05-22 14:00:26,496 - keyboard_interceptor - INFO - Keyboard interceptor active. Press Ctrl+Shift+X to exit.
+2025-05-22 14:00:26,497 - keyboard_interceptor - INFO - Listening for keyboard events...
+2025-05-22 14:00:32,516 - keyboard_interceptor - INFO - Released potentially stuck key: Key.ctrl
+2025-05-22 14:00:36,070 - keyboard_interceptor - INFO - Intercepted: cmd+q (Quit application)
+2025-05-22 14:00:36,085 - keyboard_interceptor - INFO - Launched laughing skull animation from /Users/phenix/Library/Logs/project_lockdown/scripts_2/visual/laugh_skull.py
+2025-05-22 14:00:36,086 - keyboard_interceptor - INFO - Simulating random key press: j
+2025-05-22 14:00:36,087 - keyboard_interceptor - INFO - Keyboard interceptor stopped.
